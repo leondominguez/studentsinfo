@@ -1,0 +1,10 @@
+{
+    "nombre": "Christian Villegas",
+    "edad": 34,
+    "carrera": "Tecnologia en Desarrollo de software",
+    "semestre": 6,
+    "gustos": ["baloncesto", "Comer", "Juegos", "Viajar","Motos"],
+    "noGustos": ["No tener plata", "EL ruido"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocK5zM-cQlXIU8yaKszrnZkUZ5dEN-NP38NTpUJT0lftBVPAi1g=s288-c-no"
+}
+  
