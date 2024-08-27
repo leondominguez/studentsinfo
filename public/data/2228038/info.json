@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan David Jaramillo",
+    "edad": 20,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 6,
+    "gustos": ["Comer", "Juegos", "programar"],
+    "noGustos": ["higado encebollado"],
+    "foto": "https://drive.google.com/file/d/18PjVonZO1ywt0_20qMiB5-XxKzS0qzG8/view?usp=sharing"
+}
