@@ -1,0 +1,9 @@
+{
+  "nombre": "Juan Miguel Rojas",
+  "edad": 26,
+  "carrera": "Tecnologia en Desarrollo de software",
+  "semestre": 6,
+  "gustos": ["baloncesto", "Futbol", "Juegos", "Viajar","Animé"],
+  "noGustos": ["La gente floja", "EL desorden"],
+  "foto": "https://lh3.googleusercontent.com/a/ACg8ocIMLOdDt18BJErhzNxekwbFgE_i46yubGFIXeYxVIWMWxomUOs=s288-c-no"
+}
