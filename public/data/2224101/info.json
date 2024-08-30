@@ -1,0 +1,10 @@
+{
+    "nombre": "Andres Felipe Asprilla Urrutia",
+    "edad": 19,
+    "carrera": "Ingenieria de sistemas",
+    "semestre": 6,
+    "gustos": ["Baloncesto y otros deportes", "Escuchar música", "Juegos", "Series","Peliculas"],
+    "noGustos": ["Golf"],
+    "foto": "https://lh3.googleusercontent.com/pw/AP1GczNGu0MPUeYrOzMhJN5usLVM6b1BsaPNmolbqBQXDTyT-tbDldw31XRMKWrSpr59fs2A3A5tSw2vFeZmZBBvV62cXPY7xbErOoCIliGiEfESv-W9siMJ=w2400"
+}
+  
