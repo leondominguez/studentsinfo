@@ -1,0 +1,10 @@
+{
+    "nombre": "Daniel Rojas",
+    "edad": 20,
+    "carrera": "Ingnieria de sistemas",
+    "semestre": 6,
+    "gustos": ["Tenis", "Salir", "Juegos", "Viajar","Carros"],
+    "noGustos": ["Madrugar", "El desocupe"],
+    "foto": "https://lh3.googleusercontent.com/pw/AP1GczNAy3c1D_fSzGBScwXRphXsCgneRGzQaOS8d40oOFOzyZBzbI3oHTKdd6NvGbeaFeTjfYl0MxuKFcCNcJ3PpDIxZ6ryLK1DoYNGL88O-GB4uBFEUUw=w2400"
+}
+  
