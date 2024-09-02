@@ -1,0 +1,10 @@
+{
+    "nombre": "Natan Medina",
+    "edad": 21,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos": ["Videojuegos", "Carne de Res", "Comer", "Mi novia","Corvette v8","Musica","El frio", "La plata"],
+    "noGustos": ["No tener plata", "Esta clase","El calor","El chavismo","El higado"],
+    "foto": "https://media.tenor.com/4SP8JrTcZdYAAAAM/despair.gif"
+}
+  
