@@ -1,0 +1,10 @@
+{
+    "nombre": "Jean Palomino",
+    "edad": 40,
+    "carrera": "Tecnologia en Desarrollo de software",
+    "semestre": 6,
+    "gustos": ["Jugar video Juegos", "Ver anime", "Viajar","Naturaleza"],
+    "noGustos": ["Discutir", "La violencia"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocJwpFxtv3_X4LEiuTJcT1YxXuierYc6-hTAKRRNclySQG9NHFI=s288-c-no"
+}
+  
