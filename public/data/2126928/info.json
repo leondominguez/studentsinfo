@@ -1,0 +1,11 @@
+{
+    "nombre": "Lesli Martinez",
+    "edad": 19,
+    "carrera": "Tecnologia en Desarrollo de Software",
+    "semestre": 5,
+    "gustos": ["Escuchar musica", "comer", "dormir", "bailar"],
+    "noGustos": ["Despertarse temprano", " el higado encebollado", "voleibol", "hablar en publico"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocK9hna8xhDutMnLeK3k6OnxgtlIRE43_et7jvm1fOHcnUdc4ICo=s288-c-no"
+}
+
+  
