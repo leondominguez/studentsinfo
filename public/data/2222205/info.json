@@ -5,7 +5,8 @@
     "semestre": 6,
     "gustos": ["Música", "Dibujo", "Videojuegos"],
     "noGustos": ["Verduras", "Tareas largas", "Más de 5 proyectos en un semestre"],
-    "foto": "https://i.pinimg.com/236x/c2/3a/89/c23a890ff3b6f7e40c5959c9d1cbdd6a.jpg"
+    "foto": "https://i.pinimg.com/236x/c2/3a/89/c23a890ff3b6f7e40c5959c9d1cbdd6a.jpg",
+    "redSocial": "https://www.linkedin.com/in/daniel-arias-castrillon-20365929b/" 
 }
 
   
