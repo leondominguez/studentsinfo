@@ -1,0 +1,12 @@
+{
+    "nombre": "Margarita Grisales",
+    "edad": 24,
+    "carrera": "Tecnología en Desarrollo de Software",
+    "semestre": 6,
+    "gustos": ["Música", "Dibujo", "Películas"],
+    "noGustos": ["Comida Picante", "Calor", "Trancones"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocKiKrk7ol_1KJUXz3T8MWLE0_PXss9KlDjQiquH3mPp2vbYKmyZ=s288-c-no",
+    "redSocial": "https://www.instagram.com/margaritagrisales/" 
+}
+
+  
